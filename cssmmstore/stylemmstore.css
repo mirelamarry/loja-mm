@@ -43,9 +43,10 @@ a {
 .img-colecao {
     max-width: 100%;
     height: auto;
-    border: 2px solid #848482;
     display: block;
     object-fit: cover;
+    box-shadow: 2px 5px rgba(132, 132, 130, 1);
+    border-radius: 10px;
 }
 
 #card {
